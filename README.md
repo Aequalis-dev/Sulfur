@@ -1,4 +1,4 @@
-# Luau Script Bot
+# Sulfur
 
-A Discord bot for your friend group's Roblox server. Type `/script <describe what you want>` and it replies with clean, efficient Luau code.
+A Roblox Scripting Bot . Type `/script <describe what you want>` and it replies with clean, efficient Luau code.
 
